@@ -26,7 +26,7 @@ session_start();
                <a href="index.php" class="nav-link navOptions">Home</a>
            </li>
            <li class="nav-item active navOptions">
-               <a href="#" class="nav-link navOptions">Contact</a>
+               <a href="contact.php" class="nav-link navOptions">Contact</a>
            </li>
          
         </ul>
